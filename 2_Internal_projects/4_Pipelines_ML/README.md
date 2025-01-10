@@ -1,4 +1,4 @@
-## **Pipeline Implementation Project**
+# **Pipeline Implementation Project**
 
 ## **Overview**
 This project focused on mastering the implementation of Machine Learning pipelines as part of my Data Science bootcamp. The main objective was to learn how to streamline the workflow for data preprocessing, feature engineering, and model training using pipelines. We explored this concept using three datasets: a music genre dataset, a wine quality dataset, and a California housing prices dataset.

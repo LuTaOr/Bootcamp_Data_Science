@@ -1,3 +1,86 @@
+# Purchase Intention Prediction in an Online Store
+
+## Project Description
+This project aims to predict user purchase intentions in an e-commerce platform based on interaction data. Using Machine Learning and Deep Learning, models were developed to classify whether a user will make a purchase (class 1) or not (class 0).
+
+The main objective is to provide the store managers (such as Manuel, the business owner in this case) with actionable insights to implement personalized marketing and discount strategies, optimizing resources and increasing conversions.
+
+---
+
+## Repository Structure
+- **`data/`**  
+  Contains the original dataset and preprocessed datasets used in the project.
+
+- **`notebooks/`**  
+  Notebooks with exploratory analyses, feature selection, and training of Machine Learning and Deep Learning models.
+
+- **`pipelines/`**  
+  Code for the pipelines used for data preprocessing, applying balancing techniques (like SMOTE), and training.
+
+- **`model/`**  
+  Trained models stored in `.pkl` format for Machine Learning and `.keras` for Deep Learning.
+
+- **`images/`**  
+  Images and graphs generated during the project.
+
+- **`README.md`**  
+  This project description file.
+
+---
+
+## Technologies Used
+- **Python 3.10**
+  - Main libraries:
+    - `scikit-learn`
+    - `imbalanced-learn`
+    - `tensorflow`
+    - `matplotlib`
+    - `seaborn`
+    - `pandas`
+    - `numpy`
+
+---
+
+## Project Pipeline
+1. **Data Loading:**  
+   Data on user interactions in the e-commerce platform, featuring 18 attributes including administrative, informational, and product details.
+
+2. **Preprocessing:**  
+   - Transformation of categorical variables using `OneHotEncoder`.
+   - Normalization of numerical data between -1 and 1.
+   - Reduction of irrelevant features.
+
+3. **Class Balancing:**  
+   - Application of SMOTE to balance the imbalanced classes in the training set.
+
+4. **Model Training:**  
+   - **Machine Learning:** Models such as SVM, Random Forest, XGBoost, and Logistic Regression.
+   - **Deep Learning:** Neural networks with multiple dense layers and regularization techniques (BatchNormalization and Dropout).
+
+5. **Model Evaluation:**  
+   - Key metrics: **Balanced Accuracy**, **Class 1 Recall**, and **Confusion Matrix**.
+   - Class 1 Recall was prioritized to minimize misclassification of potential buyers.
+
+---
+
+## Results
+### Machine Learning Models
+- **Selected Model:** SVM with **SMOTE** applied.  
+  - Class 1 Recall: **0.86**  
+  - Balanced Accuracy: **0.86**  
+
+### Deep Learning Models
+- Architecture with three dense layers and regularization.  
+  - Best Class 1 Recall: **0.79**.  
+
+---
+
+## Conclusions
+- The application of techniques like Feature Reduction and SMOTE improves Class 1 Recall, enabling better identification of potential buyers.
+- The system can be integrated into production to offer personalized promotions in real-time.
+
+---
+
 # Predicción de Intención de Compra en un Comercio Online
 
 ## Descripción del Proyecto
@@ -80,7 +163,6 @@ El objetivo principal es proporcionar a los responsables del comercio (como Manu
 - El sistema puede integrarse en producción para ofrecer promociones personalizadas en tiempo real.
 
 ---
-
 
 
 
