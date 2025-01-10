@@ -1,0 +1,714 @@
+Season,Race,Overtakes,TV,Percentage,GP_num,raceId,circuitId,name_x,url,weather
+2009,Australia,32,18,56.25,1,1,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix,dry
+2009,Malaysia,38,29,76.32,2,2,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix,wet
+2009,China,65,22,33.85,3,3,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2009_Chinese_Grand_Prix,wet
+2009,Bahrain,31,21,67.74,4,4,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2009_Bahrain_Grand_Prix,dry
+2009,Spain,3,3,100.0,5,5,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2009_Spanish_Grand_Prix,dry
+2009,Monaco,8,6,75.0,6,6,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2009_Monaco_Grand_Prix,dry
+2009,Turkey,13,9,69.23,7,7,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2009_Turkish_Grand_Prix,dry
+2009,Great Britain,11,9,81.82,8,8,9,British Grand Prix,http://en.wikipedia.org/wiki/2009_British_Grand_Prix,dry
+2009,Germany,18,9,50.0,9,9,20,German Grand Prix,http://en.wikipedia.org/wiki/2009_German_Grand_Prix,wet
+2009,Hungary,7,7,100.0,10,10,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2009_Hungarian_Grand_Prix,dry
+2009,Europe,1,1,100.0,11,11,12,European Grand Prix,http://en.wikipedia.org/wiki/2009_European_Grand_Prix,dry
+2009,Belgium,11,10,90.91,12,12,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2009_Belgian_Grand_Prix,wet
+2009,Italy,10,8,80.0,13,13,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2009_Italian_Grand_Prix,dry
+2009,Singapore,4,3,75.0,14,14,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2009_Singapore_Grand_Prix,dry
+2009,Japan,12,4,33.33,15,15,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2009_Japanese_Grand_Prix,wet
+2009,Brazil,29,19,65.52,16,16,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2009_Brazilian_Grand_Prix,dry
+2009,Abu Dhabi,8,5,62.5,17,17,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2009_Abu_Dhabi_Grand_Prix,dry
+2008,Australia,15,11,73.33,1,18,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2008_Australian_Grand_Prix,wet
+2008,Malaysia,6,5,83.33,2,19,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2008_Malaysian_Grand_Prix,dry
+2008,Bahrain,15,9,60.0,3,20,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2008_Bahrain_Grand_Prix,dry
+2008,Spain,3,2,66.67,4,21,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2008_Spanish_Grand_Prix,dry
+2008,Turkey,15,15,100.0,5,22,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2008_Turkish_Grand_Prix,dry
+2008,Monaco,33,13,39.39,6,23,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2008_Monaco_Grand_Prix,wet
+2008,Canada,24,18,75.0,7,24,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2008_Canadian_Grand_Prix,wet
+2008,France,11,10,90.91,8,25,8,French Grand Prix,http://en.wikipedia.org/wiki/2008_French_Grand_Prix,wet
+2008,Great Britain,47,29,61.7,9,26,9,British Grand Prix,http://en.wikipedia.org/wiki/2008_British_Grand_Prix,wet
+2008,Germany,22,17,77.27,10,27,10,German Grand Prix,http://en.wikipedia.org/wiki/2008_German_Grand_Prix,wet
+2008,Hungary,3,3,100.0,11,28,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2008_Hungarian_Grand_Prix,dry
+2008,Europe,4,2,50.0,12,29,12,European Grand Prix,http://en.wikipedia.org/wiki/2008_European_Grand_Prix,dry
+2008,Belgium,40,19,47.5,13,30,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2008_Belgian_Grand_Prix,wet
+2008,Italy,48,36,75.0,14,31,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2008_Italian_Grand_Prix,wet
+2008,Singapore,14,10,71.43,15,32,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix,wet
+2008,Japan,25,12,48.0,16,33,16,Japanese Grand Prix,http://en.wikipedia.org/wiki/2008_Japanese_Grand_Prix,dry
+2008,China,10,9,90.0,17,34,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2008_Chinese_Grand_Prix,dry
+2008,Brazil,31,19,61.29,18,35,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2008_Brazilian_Grand_Prix,wet
+2007,Australia,11,6,54.55,1,36,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2007_Australian_Grand_Prix,wet
+2007,Malaysia,12,6,50.0,2,37,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2007_Malaysian_Grand_Prix,wet
+2007,Bahrain,19,10,52.63,3,38,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2007_Bahrain_Grand_Prix,wet
+2007,Spain,5,2,40.0,4,39,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2007_Spanish_Grand_Prix,wet
+2007,Monaco,2,1,50.0,5,40,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2007_Monaco_Grand_Prix,dry
+2007,Canada,21,17,80.95,6,41,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2007_Canadian_Grand_Prix,dry
+2007,USA,18,13,72.22,7,42,19,United States Grand Prix,http://en.wikipedia.org/wiki/2007_United_States_Grand_Prix,dry
+2007,France,9,6,66.67,8,43,8,French Grand Prix,http://en.wikipedia.org/wiki/2007_French_Grand_Prix,wet
+2007,Great Britain,15,13,86.67,9,44,9,British Grand Prix,http://en.wikipedia.org/wiki/2007_British_Grand_Prix,dry
+2007,Europe,82,33,40.24,10,45,20,European Grand Prix,http://en.wikipedia.org/wiki/2007_European_Grand_Prix,wet
+2007,Hungary,5,3,60.0,11,46,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix,dry
+2007,Turkey,15,3,20.0,12,47,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2007_Turkish_Grand_Prix,dry
+2007,Italy,14,6,42.86,13,48,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2007_Italian_Grand_Prix,dry
+2007,Belgium,16,5,31.25,14,49,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2007_Belgian_Grand_Prix,dry
+2007,Japan,62,22,35.48,15,50,16,Japanese Grand Prix,http://en.wikipedia.org/wiki/2007_Japanese_Grand_Prix,wet
+2007,China,46,19,41.3,16,51,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2007_Chinese_Grand_Prix,wet
+2007,Brazil,24,18,75.0,17,52,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2007_Brazilian_Grand_Prix,wet
+2006,Bahrain,46,20,43.48,1,53,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2006_Bahrain_Grand_Prix,dry
+2006,Malaysia,16,7,43.75,2,54,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2006_Malaysian_Grand_Prix,wet
+2006,Australia,26,13,50.0,3,55,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2006_Australian_Grand_Prix,dry
+2006,San Marino,2,0,0.0,4,56,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2006_San_Marino_Grand_Prix,dry
+2006,Europe,10,3,30.0,5,57,20,European Grand Prix,http://en.wikipedia.org/wiki/2006_European_Grand_Prix,dry
+2006,Spain,7,0,0.0,6,58,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2006_Spanish_Grand_Prix,dry
+2006,Monaco,19,5,26.32,7,59,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2006_Monaco_Grand_Prix,dry
+2006,Great Britain,5,1,20.0,8,60,9,British Grand Prix,http://en.wikipedia.org/wiki/2006_British_Grand_Prix,dry
+2006,Canada,11,9,81.82,9,61,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2006_Canadian_Grand_Prix,dry
+2006,USA,6,4,66.67,10,62,19,United States Grand Prix,http://en.wikipedia.org/wiki/2006_United_States_Grand_Prix,dry
+2006,France,5,4,80.0,11,63,8,French Grand Prix,http://en.wikipedia.org/wiki/2006_French_Grand_Prix,dry
+2006,Germany,20,6,30.0,12,64,10,German Grand Prix,http://en.wikipedia.org/wiki/2006_German_Grand_Prix,dry
+2006,Hungary,37,15,40.54,13,65,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2006_Hungarian_Grand_Prix,wet
+2006,Turkey,32,20,62.5,14,66,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2006_Turkish_Grand_Prix,dry
+2006,Italy,13,2,15.38,15,67,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2006_Italian_Grand_Prix,dry
+2006,China,59,31,52.54,16,68,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2006_Chinese_Grand_Prix,wet
+2006,Japan,11,2,18.18,17,69,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2006_Japanese_Grand_Prix,dry
+2006,Brazil,20,12,60.0,18,70,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2006_Brazilian_Grand_Prix,dry
+2005,Australia,7,5,71.43,1,71,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2005_Australian_Grand_Prix,wet
+2005,Malaysia,12,11,91.67,2,72,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2005_Malaysian_Grand_Prix,dry
+2005,Bahrain,13,8,61.54,3,73,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2005_Bahrain_Grand_Prix,dry
+2005,San Marino,9,5,55.56,4,74,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2005_San_Marino_Grand_Prix,dry
+2005,Spain,4,2,50.0,5,75,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2005_Spanish_Grand_Prix,dry
+2005,Monaco,16,8,50.0,6,76,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2005_Monaco_Grand_Prix,dry
+2005,Europe,25,8,32.0,7,77,20,European Grand Prix,http://en.wikipedia.org/wiki/2005_European_Grand_Prix,dry
+2005,Canada,11,2,18.18,8,78,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2005_Canadian_Grand_Prix,dry
+2005,USA,0,0,0.0,9,79,19,United States Grand Prix,http://en.wikipedia.org/wiki/2005_United_States_Grand_Prix,dry
+2005,France,5,2,40.0,10,80,8,French Grand Prix,http://en.wikipedia.org/wiki/2005_French_Grand_Prix,dry
+2005,Great Britain,8,4,50.0,11,81,9,British Grand Prix,http://en.wikipedia.org/wiki/2005_British_Grand_Prix,dry
+2005,Germany,18,7,38.89,12,82,10,German Grand Prix,http://en.wikipedia.org/wiki/2005_German_Grand_Prix,dry
+2005,Hungary,10,4,40.0,13,83,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2005_Hungarian_Grand_Prix,dry
+2005,Turkey,30,7,23.33,14,84,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2005_Turkish_Grand_Prix,dry
+2005,Italy,7,3,42.86,15,85,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2005_Italian_Grand_Prix,dry
+2005,Belgium,33,7,21.21,16,86,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2005_Belgian_Grand_Prix,dry
+2005,Brazil,6,4,66.67,17,87,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2005_Brazilian_Grand_Prix,dry
+2005,Japan,15,9,60.0,18,88,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2005_Japanese_Grand_Prix,wet
+2005,China,17,5,29.41,19,89,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix,dry
+2004,Australia,10,5,50.0,1,90,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2004_Australian_Grand_Prix,dry
+2004,Malaysia,25,9,36.0,2,91,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2004_Malaysian_Grand_Prix,wet
+2004,Bahrain,22,16,72.73,3,92,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2004_Bahrain_Grand_Prix,dry
+2004,San Marino,6,0,0.0,4,93,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2004_San_Marino_Grand_Prix,dry
+2004,Spain,7,4,57.14,5,94,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2004_Spanish_Grand_Prix,dry
+2004,Monaco,5,2,40.0,6,95,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2004_Monaco_Grand_Prix,dry
+2004,Europe,13,6,46.15,7,96,20,European Grand Prix,http://en.wikipedia.org/wiki/2004_European_Grand_Prix,dry
+2004,Canada,19,2,10.53,8,97,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2004_Canadian_Grand_Prix,dry
+2004,USA,19,10,52.63,9,98,19,United States Grand Prix,http://en.wikipedia.org/wiki/2004_United_States_Grand_Prix,dry
+2004,France,15,3,20.0,10,99,8,French Grand Prix,http://en.wikipedia.org/wiki/2004_French_Grand_Prix,dry
+2004,Great Britain,15,10,66.67,11,100,9,British Grand Prix,http://en.wikipedia.org/wiki/2004_British_Grand_Prix,dry
+2004,Germany,32,15,46.88,12,101,10,German Grand Prix,http://en.wikipedia.org/wiki/2004_German_Grand_Prix,dry
+2004,Hungary,5,2,40.0,13,102,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2004_Hungarian_Grand_Prix,dry
+2004,Belgium,24,14,58.33,14,103,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2004_Belgian_Grand_Prix,wet
+2004,Italy,48,13,27.08,15,104,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2004_Italian_Grand_Prix,wet
+2004,China,22,11,50.0,16,105,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2004_Chinese_Grand_Prix,dry
+2004,Japan,30,11,36.67,17,106,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2004_Japanese_Grand_Prix,wet
+2004,Brazil,58,12,20.69,18,107,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2004_Brazilian_Grand_Prix,dry
+2003,Australia,49,14,28.57,1,108,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2003_Australian_Grand_Prix,wet
+2003,Malaysia,21,9,42.86,2,109,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2003_Malaysian_Grand_Prix,wet
+2003,Brazil,52,22,42.31,3,110,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2003_Brazilian_Grand_Prix,wet
+2003,San Marino,3,1,33.33,4,111,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2003_San_Marino_Grand_Prix,dry
+2003,Spain,22,9,40.91,5,112,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2003_Spanish_Grand_Prix,dry
+2003,Austria,14,5,35.71,6,113,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2003_Austrian_Grand_Prix,wet
+2003,Monaco,0,0,0.0,7,114,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2003_Monaco_Grand_Prix,dry
+2003,Canada,9,3,33.33,8,115,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2003_Canadian_Grand_Prix,dry
+2003,Europe,9,4,44.44,9,116,20,European Grand Prix,http://en.wikipedia.org/wiki/2003_European_Grand_Prix,dry
+2003,France,10,3,30.0,10,117,8,French Grand Prix,http://en.wikipedia.org/wiki/2003_French_Grand_Prix,dry
+2003,Great Britain,51,29,56.86,11,118,9,British Grand Prix,http://en.wikipedia.org/wiki/2003_British_Grand_Prix,dry
+2003,Germany,11,8,72.73,12,119,10,German Grand Prix,http://en.wikipedia.org/wiki/2003_German_Grand_Prix,dry
+2003,Hungary,28,13,46.43,13,120,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2003_Hungarian_Grand_Prix,dry
+2003,Italy,5,1,20.0,14,121,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2003_Italian_Grand_Prix,dry
+2003,USA,54,21,38.89,15,122,19,United States Grand Prix,http://en.wikipedia.org/wiki/2003_United_States_Grand_Prix,wet
+2003,Japan,19,4,21.05,16,123,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2003_Japanese_Grand_Prix,dry
+2002,Australia,16,3,18.75,1,124,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2002_Australian_Grand_Prix,wet
+2002,Malaysia,27,7,25.93,2,125,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2002_Malaysian_Grand_Prix,dry
+2002,Brazil,31,11,35.48,3,126,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2002_Brazilian_Grand_Prix,dry
+2002,San Marino,6,3,50.0,4,127,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2002_San_Marino_Grand_Prix,dry
+2002,Spain,3,2,66.67,5,128,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2002_Spanish_Grand_Prix,dry
+2002,Austria,20,4,20.0,6,129,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2002_Austrian_Grand_Prix,dry
+2002,Monaco,10,4,40.0,7,130,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2002_Monaco_Grand_Prix,dry
+2002,Canada,17,5,29.41,8,131,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2002_Canadian_Grand_Prix,wet
+2002,Europe,25,4,16.0,9,132,20,European Grand Prix,http://en.wikipedia.org/wiki/2002_European_Grand_Prix,wet
+2002,Great Britain,48,10,20.83,10,133,9,British Grand Prix,http://en.wikipedia.org/wiki/2002_British_Grand_Prix,wet
+2002,France,2,0,0.0,11,134,8,French Grand Prix,http://en.wikipedia.org/wiki/2002_French_Grand_Prix,dry
+2002,Germany,24,7,29.17,12,135,10,German Grand Prix,http://en.wikipedia.org/wiki/2002_German_Grand_Prix,dry
+2002,Hungary,3,1,33.33,13,136,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2002_Hungarian_Grand_Prix,dry
+2002,Belgium,6,5,83.33,14,137,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2002_Belgian_Grand_Prix,dry
+2002,Italy,16,5,31.25,15,138,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2002_Italian_Grand_Prix,wet
+2002,USA,19,7,36.84,16,139,19,United States Grand Prix,http://en.wikipedia.org/wiki/2002_United_States_Grand_Prix,wet
+2002,Japan,1,0,0.0,17,140,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2002_Japanese_Grand_Prix,dry
+2001,Australia,20,4,20.0,1,141,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2001_Australian_Grand_Prix,wet
+2001,Malaysia,56,21,37.5,2,142,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2001_Malaysian_Grand_Prix,wet
+2001,Brazil,31,13,41.94,3,143,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2001_Brazilian_Grand_Prix,wet
+2001,San Marino,8,4,50.0,4,144,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2001_San_Marino_Grand_Prix,wet
+2001,Spain,10,1,10.0,5,145,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2001_Spanish_Grand_Prix,dry
+2001,Austria,18,7,38.89,6,146,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2001_Austrian_Grand_Prix,wet
+2001,Monaco,7,0,0.0,7,147,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2001_Monaco_Grand_Prix,dry
+2001,Canada,12,4,33.33,8,148,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2001_Canadian_Grand_Prix,dry
+2001,Europe,7,1,14.29,9,149,20,European Grand Prix,http://en.wikipedia.org/wiki/2001_European_Grand_Prix,wet
+2001,France,8,2,25.0,10,150,8,French Grand Prix,http://en.wikipedia.org/wiki/2001_French_Grand_Prix,dry
+2001,Great Britain,8,5,62.5,11,151,9,British Grand Prix,http://en.wikipedia.org/wiki/2001_British_Grand_Prix,wet
+2001,Germany,14,3,21.43,12,152,10,German Grand Prix,http://en.wikipedia.org/wiki/2001_German_Grand_Prix,wet
+2001,Hungary,3,1,33.33,13,153,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2001_Hungarian_Grand_Prix,wet
+2001,Belgium,12,7,58.33,14,154,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2001_Belgian_Grand_Prix,wet
+2001,Italy,28,8,28.57,15,155,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2001_Italian_Grand_Prix,wet
+2001,USA,17,5,29.41,16,156,19,United States Grand Prix,http://en.wikipedia.org/wiki/2001_United_States_Grand_Prix,dry
+2001,Japan,18,3,16.67,17,157,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2001_Japanese_Grand_Prix,dry
+2000,Australia,11,1,9.09,1,158,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2000_Australian_Grand_Prix,dry
+2000,Brazil,22,9,40.91,2,159,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2000_Brazilian_Grand_Prix,wet
+2000,San Marino,1,1,100.0,3,160,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/2000_San_Marino_Grand_Prix,dry
+2000,Great Britain,10,3,30.0,4,161,9,British Grand Prix,http://en.wikipedia.org/wiki/2000_British_Grand_Prix,wet
+2000,Spain,8,4,50.0,5,162,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2000_Spanish_Grand_Prix,wet
+2000,Europe,37,17,45.95,6,163,20,European Grand Prix,http://en.wikipedia.org/wiki/2000_European_Grand_Prix,wet
+2000,Monaco,1,1,100.0,7,164,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2000_Monaco_Grand_Prix,wet
+2000,Canada,19,9,47.37,8,165,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2000_Canadian_Grand_Prix,wet
+2000,France,19,8,42.11,9,166,8,French Grand Prix,http://en.wikipedia.org/wiki/2000_French_Grand_Prix,wet
+2000,Austria,28,7,25.0,10,167,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2000_Austrian_Grand_Prix,wet
+2000,Germany,49,18,36.73,11,168,10,German Grand Prix,http://en.wikipedia.org/wiki/2000_German_Grand_Prix,wet
+2000,Hungary,11,6,54.55,12,169,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2000_Hungarian_Grand_Prix,wet
+2000,Belgium,28,12,42.86,13,170,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2000_Belgian_Grand_Prix,wet
+2000,Italy,20,8,40.0,14,171,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2000_Italian_Grand_Prix,wet
+2000,USA,48,8,16.67,15,172,19,United States Grand Prix,http://en.wikipedia.org/wiki/2000_United_States_Grand_Prix,wet
+2000,Japan,8,1,12.5,16,173,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2000_Japanese_Grand_Prix,wet
+2000,Malaysia,30,5,16.67,17,174,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2000_Malaysian_Grand_Prix,dry
+1999,Australia,46,7,15.22,1,175,1,Australian Grand Prix,http://en.wikipedia.org/wiki/1999_Australian_Grand_Prix,dry
+1999,Brazil,34,4,11.76,2,176,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1999_Brazilian_Grand_Prix,dry
+1999,San Marino,7,4,57.14,3,177,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1999_San_Marino_Grand_Prix,dry
+1999,Monaco,5,2,40.0,4,178,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1999_Monaco_Grand_Prix,dry
+1999,Spain,5,1,20.0,5,179,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1999_Spanish_Grand_Prix,dry
+1999,Canada,15,7,46.67,6,180,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1999_Canadian_Grand_Prix,dry
+1999,France,42,17,40.48,7,181,8,French Grand Prix,http://en.wikipedia.org/wiki/1999_French_Grand_Prix,wet
+1999,Great Britain,13,4,30.77,8,182,9,British Grand Prix,http://en.wikipedia.org/wiki/1999_British_Grand_Prix,dry
+1999,Austria,30,15,50.0,9,183,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1999_Austrian_Grand_Prix,dry
+1999,Germany,18,12,66.67,10,184,10,German Grand Prix,http://en.wikipedia.org/wiki/1999_German_Grand_Prix,dry
+1999,Hungary,4,0,0.0,11,185,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1999_Hungarian_Grand_Prix,dry
+1999,Belgium,18,8,44.44,12,186,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1999_Belgian_Grand_Prix,dry
+1999,Italy,17,12,70.59,13,187,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1999_Italian_Grand_Prix,dry
+1999,Europe,29,8,27.59,14,188,20,European Grand Prix,http://en.wikipedia.org/wiki/1999_European_Grand_Prix,wet
+1999,Malaysia,11,2,18.18,15,189,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/1999_Malaysian_Grand_Prix,dry
+1999,Japan,4,1,25.0,16,190,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1999_Japanese_Grand_Prix,dry
+1998,Australia,5,1,20.0,1,191,1,Australian Grand Prix,http://en.wikipedia.org/wiki/1998_Australian_Grand_Prix,dry
+1998,Brazil,15,9,60.0,2,192,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1998_Brazilian_Grand_Prix,dry
+1998,Argentina,14,5,35.71,3,193,25,Argentine Grand Prix,http://en.wikipedia.org/wiki/1998_Argentine_Grand_Prix,dry
+1998,San Marino,7,3,42.86,4,194,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1998_San_Marino_Grand_Prix,dry
+1998,Spain,11,2,18.18,5,195,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1998_Spanish_Grand_Prix,dry
+1998,Monaco,2,1,50.0,6,196,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1998_Monaco_Grand_Prix,dry
+1998,Canada,10,4,40.0,7,197,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1998_Canadian_Grand_Prix,dry
+1998,France,17,0,0.0,8,198,8,French Grand Prix,http://en.wikipedia.org/wiki/1998_French_Grand_Prix,dry
+1998,Great Britain,34,7,20.59,9,199,9,British Grand Prix,http://en.wikipedia.org/wiki/1998_British_Grand_Prix,wet
+1998,Austria,26,9,34.62,10,200,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1998_Austrian_Grand_Prix,wet
+1998,Germany,12,3,25.0,11,201,10,German Grand Prix,http://en.wikipedia.org/wiki/1998_German_Grand_Prix,dry
+1998,Hungary,10,3,30.0,12,202,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1998_Hungarian_Grand_Prix,dry
+1998,Belgium,9,2,22.22,13,203,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1998_Belgian_Grand_Prix,wet
+1998,Italy,21,3,14.29,14,204,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1998_Italian_Grand_Prix,wet
+1998,Luxembourg,6,2,33.33,15,205,20,Luxembourg Grand Prix,http://en.wikipedia.org/wiki/1998_Luxembourg_Grand_Prix,dry
+1998,Japan,18,3,16.67,16,206,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1998_Japanese_Grand_Prix,dry
+1997,Australia,4,0,0.0,1,207,1,Australian Grand Prix,http://en.wikipedia.org/wiki/1997_Australian_Grand_Prix,dry
+1997,Brazil,33,5,15.15,2,208,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1997_Brazilian_Grand_Prix,dry
+1997,Argentina,36,3,8.33,3,209,25,Argentine Grand Prix,http://en.wikipedia.org/wiki/1997_Argentine_Grand_Prix,dry
+1997,San Marino,5,3,60.0,4,210,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1997_San_Marino_Grand_Prix,dry
+1997,Monaco,31,14,45.16,5,211,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1997_Monaco_Grand_Prix,wet
+1997,Spain,25,3,12.0,6,212,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1997_Spanish_Grand_Prix,dry
+1997,Canada,23,9,39.13,7,213,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1997_Canadian_Grand_Prix,dry
+1997,France,8,3,37.5,8,214,8,French Grand Prix,http://en.wikipedia.org/wiki/1997_French_Grand_Prix,wet
+1997,Great Britain,14,3,21.43,9,215,9,British Grand Prix,http://en.wikipedia.org/wiki/1997_British_Grand_Prix,dry
+1997,Germany,16,4,25.0,10,216,10,German Grand Prix,http://en.wikipedia.org/wiki/1997_German_Grand_Prix,wet
+1997,Hungary,26,10,38.46,11,217,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1997_Hungarian_Grand_Prix,dry
+1997,Belgium,58,14,24.14,12,218,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1997_Belgian_Grand_Prix,wet
+1997,Italy,5,2,40.0,13,219,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1997_Italian_Grand_Prix,dry
+1997,Austria,18,9,50.0,14,220,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1997_Austrian_Grand_Prix,dry
+1997,Luxembourg,10,3,30.0,15,221,20,Luxembourg Grand Prix,http://en.wikipedia.org/wiki/1997_Luxembourg_Grand_Prix,dry
+1997,Japan,11,6,54.55,16,222,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1997_Japanese_Grand_Prix,dry
+1997,Europe,11,4,36.36,17,223,26,European Grand Prix,http://en.wikipedia.org/wiki/1997_European_Grand_Prix,wet
+1996,Australia,9,3,33.33,1,224,1,Australian Grand Prix,http://en.wikipedia.org/wiki/1996_Australian_Grand_Prix,dry
+1996,Brazil,39,9,23.08,2,225,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1996_Brazilian_Grand_Prix,wet
+1996,Argentina,23,5,21.74,3,226,25,Argentine Grand Prix,http://en.wikipedia.org/wiki/1996_Argentine_Grand_Prix,dry
+1996,Europe,23,6,26.09,4,227,20,European Grand Prix,http://en.wikipedia.org/wiki/1996_European_Grand_Prix,dry
+1996,San Marino,5,2,40.0,5,228,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1996_San_Marino_Grand_Prix,dry
+1996,Monaco,6,2,33.33,6,229,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1996_Monaco_Grand_Prix,wet
+1996,Spain,6,3,50.0,7,230,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1996_Spanish_Grand_Prix,wet
+1996,Canada,15,4,26.67,8,231,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1996_Canadian_Grand_Prix,dry
+1996,France,9,4,44.44,9,232,8,French Grand Prix,http://en.wikipedia.org/wiki/1996_French_Grand_Prix,dry
+1996,Great Britain,10,0,0.0,10,233,9,British Grand Prix,http://en.wikipedia.org/wiki/1996_British_Grand_Prix,dry
+1996,Germany,11,1,9.09,11,234,10,German Grand Prix,http://en.wikipedia.org/wiki/1996_German_Grand_Prix,dry
+1996,Hungary,4,1,25.0,12,235,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1996_Hungarian_Grand_Prix,dry
+1996,Belgium,21,7,33.33,13,236,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1996_Belgian_Grand_Prix,dry
+1996,Italy,12,0,0.0,14,237,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1996_Italian_Grand_Prix,dry
+1996,Portugal,4,3,75.0,15,238,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1996_Portuguese_Grand_Prix,dry
+1996,Japan,15,3,20.0,16,239,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1996_Japanese_Grand_Prix,dry
+1995,Brazil,22,5,22.73,1,240,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1995_Brazilian_Grand_Prix,wet
+1995,Argentina,27,4,14.81,2,241,25,Argentine Grand Prix,http://en.wikipedia.org/wiki/1995_Argentine_Grand_Prix,wet
+1995,San Marino,44,0,0.0,3,242,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1995_San_Marino_Grand_Prix,wet
+1995,Spain,19,2,10.53,4,243,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1995_Spanish_Grand_Prix,dry
+1995,Monaco,9,0,0.0,5,244,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1995_Monaco_Grand_Prix,wet
+1995,Canada,9,3,33.33,6,245,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1995_Canadian_Grand_Prix,wet
+1995,France,9,1,11.11,7,246,8,French Grand Prix,http://en.wikipedia.org/wiki/1995_French_Grand_Prix,dry
+1995,Great Britain,18,1,5.56,8,247,9,British Grand Prix,http://en.wikipedia.org/wiki/1995_British_Grand_Prix,wet
+1995,Germany,22,7,31.82,9,248,10,German Grand Prix,http://en.wikipedia.org/wiki/1995_German_Grand_Prix,dry
+1995,Hungary,5,1,20.0,10,249,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1995_Hungarian_Grand_Prix,dry
+1995,Belgium,26,10,38.46,11,250,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1995_Belgian_Grand_Prix,wet
+1995,Italy,22,4,18.18,12,251,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1995_Italian_Grand_Prix,dry
+1995,Portugal,16,3,18.75,13,252,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1995_Portuguese_Grand_Prix,dry
+1995,Europe,47,6,12.77,14,253,20,European Grand Prix,http://en.wikipedia.org/wiki/1995_European_Grand_Prix,wet
+1995,Pacific,15,7,46.67,15,254,28,Pacific Grand Prix,http://en.wikipedia.org/wiki/1995_Pacific_Grand_Prix,dry
+1995,Japan,31,4,12.9,16,255,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1995_Japanese_Grand_Prix,wet
+1995,Australia,4,1,25.0,17,256,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1995_Australian_Grand_Prix,dry
+1994,Brazil,20,3,15.0,1,257,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1994_Brazilian_Grand_Prix,dry
+1994,Pacific,16,7,43.75,2,258,28,Pacific Grand Prix,http://en.wikipedia.org/wiki/1994_Pacific_Grand_Prix,dry
+1994,San Marino,0,0,0.0,3,259,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1994_San_Marino_Grand_Prix,dry
+1994,Monaco,9,1,11.11,4,260,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1994_Monaco_Grand_Prix,dry
+1994,Spain,14,0,0.0,5,261,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1994_Spanish_Grand_Prix,dry
+1994,Canada,28,4,14.29,6,262,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1994_Canadian_Grand_Prix,dry
+1994,France,15,2,13.33,7,263,8,French Grand Prix,http://en.wikipedia.org/wiki/1994_French_Grand_Prix,dry
+1994,Great Britain,36,3,8.33,8,264,9,British Grand Prix,http://en.wikipedia.org/wiki/1994_British_Grand_Prix,dry
+1994,Germany,12,2,16.67,9,265,10,German Grand Prix,http://en.wikipedia.org/wiki/1994_German_Grand_Prix,dry
+1994,Hungary,5,1,20.0,10,266,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1994_Hungarian_Grand_Prix,dry
+1994,Belgium,36,5,13.89,11,267,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1994_Belgian_Grand_Prix,wet
+1994,Italy,31,3,9.68,12,268,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1994_Italian_Grand_Prix,dry
+1994,Portugal,27,3,11.11,13,269,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1994_Portuguese_Grand_Prix,dry
+1994,Europe,15,2,13.33,14,270,26,European Grand Prix,http://en.wikipedia.org/wiki/1994_European_Grand_Prix,dry
+1994,Japan,3,0,0.0,15,271,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1994_Japanese_Grand_Prix,wet
+1994,Australia,20,8,40.0,16,272,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1994_Australian_Grand_Prix,dry
+1993,South Africa,10,4,40.0,1,273,30,South African Grand Prix,http://en.wikipedia.org/wiki/1993_South_African_Grand_Prix,dry
+1993,Brazil,28,8,28.57,2,274,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1993_Brazilian_Grand_Prix,wet
+1993,Europe,31,2,6.45,3,275,31,European Grand Prix,http://en.wikipedia.org/wiki/1993_European_Grand_Prix,wet
+1993,San Marino,22,8,36.36,4,276,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1993_San_Marino_Grand_Prix,dry
+1993,Spain,18,3,16.67,5,277,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1993_Spanish_Grand_Prix,dry
+1993,Monaco,31,5,16.13,6,278,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1993_Monaco_Grand_Prix,dry
+1993,Canada,11,7,63.64,7,279,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1993_Canadian_Grand_Prix,dry
+1993,France,24,2,8.33,8,280,8,French Grand Prix,http://en.wikipedia.org/wiki/1993_French_Grand_Prix,dry
+1993,Great Britain,26,4,15.38,9,281,9,British Grand Prix,http://en.wikipedia.org/wiki/1993_British_Grand_Prix,dry
+1993,Germany,51,16,31.37,10,282,10,German Grand Prix,http://en.wikipedia.org/wiki/1993_German_Grand_Prix,dry
+1993,Hungary,39,7,17.95,11,283,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1993_Hungarian_Grand_Prix,dry
+1993,Belgium,42,9,21.43,12,284,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1993_Belgian_Grand_Prix,dry
+1993,Italy,30,7,23.33,13,285,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1993_Italian_Grand_Prix,dry
+1993,Portugal,29,0,0.0,14,286,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1993_Portuguese_Grand_Prix,dry
+1993,Japan,28,8,28.57,15,287,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1993_Japanese_Grand_Prix,wet
+1993,Australia,14,2,14.29,16,288,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1993_Australian_Grand_Prix,dry
+1992,South Africa,22,0,0.0,1,289,30,South African Grand Prix,http://en.wikipedia.org/wiki/1992_South_African_Grand_Prix,dry
+1992,Mexico,43,4,9.3,2,290,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1992_Mexican_Grand_Prix,dry
+1992,Brazil,20,5,25.0,3,291,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1992_Brazilian_Grand_Prix,dry
+1992,Spain,41,8,19.51,4,292,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1992_Spanish_Grand_Prix,wet
+1992,San Marino,22,1,4.55,5,293,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1992_San_Marino_Grand_Prix,dry
+1992,Monaco,7,1,14.29,6,294,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1992_Monaco_Grand_Prix,dry
+1992,Canada,17,1,5.88,7,295,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1992_Canadian_Grand_Prix,dry
+1992,France,4,1,25.0,8,296,8,French Grand Prix,http://en.wikipedia.org/wiki/1992_French_Grand_Prix,wet
+1992,Great Britain,29,2,6.9,9,297,9,British Grand Prix,http://en.wikipedia.org/wiki/1992_British_Grand_Prix,wet
+1992,Germany,20,2,10.0,10,298,10,German Grand Prix,http://en.wikipedia.org/wiki/1992_German_Grand_Prix,dry
+1992,Hungary,27,9,33.33,11,299,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1992_Hungarian_Grand_Prix,dry
+1992,Belgium,63,22,34.92,12,300,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1992_Belgian_Grand_Prix,wet
+1992,Italy,43,10,23.26,13,301,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1992_Italian_Grand_Prix,dry
+1992,Portugal,31,1,3.23,14,302,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1992_Portuguese_Grand_Prix,dry
+1992,Japan,18,2,11.11,15,303,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1992_Japanese_Grand_Prix,dry
+1992,Australia,19,4,21.05,16,304,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1992_Australian_Grand_Prix,dry
+1991,USA,27,7,25.93,1,305,33,United States Grand Prix,http://en.wikipedia.org/wiki/1991_United_States_Grand_Prix,dry
+1991,Brazil,26,2,7.69,2,306,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1991_Brazilian_Grand_Prix,dry
+1991,San Marino,40,15,37.5,3,307,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1991_San_Marino_Grand_Prix,dry
+1991,Monaco,9,1,11.11,4,308,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1991_Monaco_Grand_Prix,dry
+1991,Canada,33,7,21.21,5,309,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1991_Canadian_Grand_Prix,dry
+1991,Mexico,54,5,9.26,6,310,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1991_Mexican_Grand_Prix,dry
+1991,France,41,8,19.51,7,311,8,French Grand Prix,http://en.wikipedia.org/wiki/1991_French_Grand_Prix,dry
+1991,Great Britain,43,8,18.6,8,312,9,British Grand Prix,http://en.wikipedia.org/wiki/1991_British_Grand_Prix,dry
+1991,Germany,29,6,20.69,9,313,10,German Grand Prix,http://en.wikipedia.org/wiki/1991_German_Grand_Prix,dry
+1991,Hungary,33,2,6.06,10,314,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1991_Hungarian_Grand_Prix,dry
+1991,Belgium,35,9,25.71,11,315,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1991_Belgian_Grand_Prix,dry
+1991,Italy,29,8,27.59,12,316,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1991_Italian_Grand_Prix,dry
+1991,Portugal,25,6,24.0,13,317,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1991_Portuguese_Grand_Prix,dry
+1991,Spain,65,7,10.77,14,318,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/1991_Spanish_Grand_Prix,wet
+1991,Japan,6,1,16.67,15,319,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1991_Japanese_Grand_Prix,dry
+1991,Australia,23,0,0.0,16,320,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1991_Australian_Grand_Prix,wet
+1990,USA,44,8,18.18,1,321,33,United States Grand Prix,http://en.wikipedia.org/wiki/1990_United_States_Grand_Prix,wet
+1990,Brazil,42,4,9.52,2,322,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1990_Brazilian_Grand_Prix,dry
+1990,San Marino,33,4,12.12,3,323,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1990_San_Marino_Grand_Prix,dry
+1990,Monaco,11,7,63.64,4,324,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1990_Monaco_Grand_Prix,dry
+1990,Canada,60,19,31.67,5,325,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1990_Canadian_Grand_Prix,dry
+1990,Mexico,73,15,20.55,6,326,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1990_Mexican_Grand_Prix,dry
+1990,France,36,6,16.67,7,327,34,French Grand Prix,http://en.wikipedia.org/wiki/1990_French_Grand_Prix,dry
+1990,Great Britain,49,11,22.45,8,328,9,British Grand Prix,http://en.wikipedia.org/wiki/1990_British_Grand_Prix,dry
+1990,Germany,20,2,10.0,9,329,10,German Grand Prix,http://en.wikipedia.org/wiki/1990_German_Grand_Prix,dry
+1990,Hungary,39,8,20.51,10,330,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1990_Hungarian_Grand_Prix,dry
+1990,Belgium,31,6,19.35,11,331,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1990_Belgian_Grand_Prix,dry
+1990,Italy,17,4,23.53,12,332,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1990_Italian_Grand_Prix,dry
+1990,Portugal,31,5,16.13,13,333,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1990_Portuguese_Grand_Prix,dry
+1990,Spain,18,1,5.56,14,334,26,Spanish Grand Prix,http://en.wikipedia.org/wiki/1990_Spanish_Grand_Prix,dry
+1990,Japan,11,1,9.09,15,335,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1990_Japanese_Grand_Prix,dry
+1990,Australia,29,8,27.59,16,336,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1990_Australian_Grand_Prix,wet
+2010,Bahrain,27,17,62.96,1,337,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix,dry
+2010,Australia,51,29,56.86,2,338,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix,wet
+2010,Malaysia,26,15,57.69,3,339,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix,wet
+2010,China,93,70,75.27,4,340,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix,wet
+2010,Spain,11,9,81.82,5,341,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2010_Spanish_Grand_Prix,dry
+2010,Monaco,6,5,83.33,6,342,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2010_Monaco_Grand_Prix,wet
+2010,Turkey,29,13,44.83,7,343,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2010_Turkish_Grand_Prix,wet
+2010,Canada,72,21,29.17,8,344,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2010_Canadian_Grand_Prix,wet
+2010,Europe,17,9,52.94,9,345,12,European Grand Prix,http://en.wikipedia.org/wiki/2010_European_Grand_Prix,dry
+2010,Great Britain,34,17,50.0,10,346,9,British Grand Prix,http://en.wikipedia.org/wiki/2010_British_Grand_Prix,dry
+2010,Germany,16,4,25.0,11,347,10,German Grand Prix,http://en.wikipedia.org/wiki/2010_German_Grand_Prix,wet
+2010,Hungary,9,4,44.44,12,348,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2010_Hungarian_Grand_Prix,wet
+2010,Belgium,71,22,30.99,13,349,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2010_Belgian_Grand_Prix,wet
+2010,Italy,19,10,52.63,14,350,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2010_Italian_Grand_Prix,dry
+2010,Singapore,33,18,54.55,15,351,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2010_Singapore_Grand_Prix,wet
+2010,Japan,10,9,90.0,16,352,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2010_Japanese_Grand_Prix,wet
+2010,South Korea,39,18,46.15,17,353,35,Korean Grand Prix,http://en.wikipedia.org/wiki/2010_Korean_Grand_Prix,wet
+2010,Brazil,36,17,47.22,18,354,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2010_Brazilian_Grand_Prix,wet
+2010,Abu Dhabi,16,6,37.5,19,355,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2010_Abu_Dhabi_Grand_Prix,wet
+1989,Brazil,31,7,22.58,1,356,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1989_Brazilian_Grand_Prix,dry
+1989,San Marino,5,0,0.0,2,357,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1989_San_Marino_Grand_Prix,dry
+1989,Monaco,20,4,20.0,3,358,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1989_Monaco_Grand_Prix,dry
+1989,Mexico,47,5,10.64,4,359,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1989_Mexican_Grand_Prix,dry
+1989,USA,28,5,17.86,5,360,33,United States Grand Prix,http://en.wikipedia.org/wiki/1989_United_States_Grand_Prix,dry
+1989,Canada,58,11,18.97,6,361,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1989_Canadian_Grand_Prix,wet
+1989,France,38,5,13.16,7,362,34,French Grand Prix,http://en.wikipedia.org/wiki/1989_French_Grand_Prix,dry
+1989,Great Britain,40,5,12.5,8,363,9,British Grand Prix,http://en.wikipedia.org/wiki/1989_British_Grand_Prix,dry
+1989,Germany,27,4,14.81,9,364,10,German Grand Prix,http://en.wikipedia.org/wiki/1989_German_Grand_Prix,dry
+1989,Hungary,35,9,25.71,10,365,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1989_Hungarian_Grand_Prix,dry
+1989,Belgium,20,0,0.0,11,366,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1989_Belgian_Grand_Prix,wet
+1989,Italy,28,9,32.14,12,367,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1989_Italian_Grand_Prix,dry
+1989,Portugal,71,10,14.08,13,368,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1989_Portuguese_Grand_Prix,dry
+1989,Spain,29,7,24.14,14,369,26,Spanish Grand Prix,http://en.wikipedia.org/wiki/1989_Spanish_Grand_Prix,dry
+1989,Japan,44,4,9.09,15,370,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1989_Japanese_Grand_Prix,dry
+1989,Australia,46,3,6.52,16,371,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1989_Australian_Grand_Prix,wet
+1988,Brazil,46,9,19.57,1,372,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1988_Brazilian_Grand_Prix,dry
+1988,San Marino,41,14,34.15,2,373,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1988_San_Marino_Grand_Prix,dry
+1988,Monaco,11,0,0.0,3,374,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1988_Monaco_Grand_Prix,dry
+1988,Mexico,35,3,8.57,4,375,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1988_Mexican_Grand_Prix,dry
+1988,Canada,22,5,22.73,5,376,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1988_Canadian_Grand_Prix,dry
+1988,USA,36,8,22.22,6,377,37,Detroit Grand Prix,http://en.wikipedia.org/wiki/1988_Detroit_Grand_Prix,wet
+1988,France,36,10,27.78,7,378,34,French Grand Prix,http://en.wikipedia.org/wiki/1988_French_Grand_Prix,dry
+1988,Great Britain,40,10,25.0,8,379,9,British Grand Prix,http://en.wikipedia.org/wiki/1988_British_Grand_Prix,wet
+1988,Germany,29,4,13.79,9,380,10,German Grand Prix,http://en.wikipedia.org/wiki/1988_German_Grand_Prix,wet
+1988,Hungary,27,10,37.04,10,381,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1988_Hungarian_Grand_Prix,dry
+1988,Belgium,30,5,16.67,11,382,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1988_Belgian_Grand_Prix,wet
+1988,Italy,32,7,21.88,12,383,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1988_Italian_Grand_Prix,dry
+1988,Portugal,19,3,15.79,13,384,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1988_Portuguese_Grand_Prix,dry
+1988,Spain,30,10,33.33,14,385,26,Spanish Grand Prix,http://en.wikipedia.org/wiki/1988_Spanish_Grand_Prix,dry
+1988,Japan,62,4,6.45,15,386,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1988_Japanese_Grand_Prix,wet
+1988,Australia,35,6,17.14,16,387,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1988_Australian_Grand_Prix,dry
+1987,Brazil,48,13,27.08,1,388,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1987_Brazilian_Grand_Prix,dry
+1987,San Marino,52,11,21.15,2,389,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1987_San_Marino_Grand_Prix,dry
+1987,Belgium,19,5,26.32,3,390,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1987_Belgian_Grand_Prix,dry
+1987,Monaco,16,1,6.25,4,391,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1987_Monaco_Grand_Prix,dry
+1987,Detroit,43,3,6.98,5,392,37,Detroit Grand Prix,http://en.wikipedia.org/wiki/1987_Detroit_Grand_Prix,wet
+1987,France,44,4,9.09,6,393,34,French Grand Prix,http://en.wikipedia.org/wiki/1987_French_Grand_Prix,dry
+1987,Great Britain,22,4,18.18,7,394,9,British Grand Prix,http://en.wikipedia.org/wiki/1987_British_Grand_Prix,dry
+1987,Germany,31,6,19.35,8,395,10,German Grand Prix,http://en.wikipedia.org/wiki/1987_German_Grand_Prix,dry
+1987,Hungary,29,3,10.34,9,396,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1987_Hungarian_Grand_Prix,dry
+1987,Austria,72,9,12.5,10,397,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1987_Austrian_Grand_Prix,dry
+1987,Italy,27,6,22.22,11,398,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1987_Italian_Grand_Prix,dry
+1987,Portugal,24,5,20.83,12,399,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1987_Portuguese_Grand_Prix,dry
+1987,Spain,42,12,28.57,13,400,26,Spanish Grand Prix,http://en.wikipedia.org/wiki/1987_Spanish_Grand_Prix,dry
+1987,Mexico,24,5,20.83,14,401,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1987_Mexican_Grand_Prix,dry
+1987,Japan,45,6,13.33,15,402,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/1987_Japanese_Grand_Prix,dry
+1987,Australia,54,4,7.41,16,403,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1987_Australian_Grand_Prix,dry
+1986,Brazil,53,9,16.98,1,404,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1986_Brazilian_Grand_Prix,dry
+1986,Spain,22,7,31.82,2,405,26,Spanish Grand Prix,http://en.wikipedia.org/wiki/1986_Spanish_Grand_Prix,dry
+1986,San Marino,34,6,17.65,3,406,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1986_San_Marino_Grand_Prix,dry
+1986,Monaco,21,7,33.33,4,407,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1986_Monaco_Grand_Prix,dry
+1986,Belgium,33,5,15.15,5,408,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1986_Belgian_Grand_Prix,dry
+1986,Canada,34,13,38.24,6,409,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1986_Canadian_Grand_Prix,dry
+1986,Detroit,59,12,20.34,7,410,37,Detroit Grand Prix,http://en.wikipedia.org/wiki/1986_Detroit_Grand_Prix,dry
+1986,France,35,11,31.43,8,411,34,French Grand Prix,http://en.wikipedia.org/wiki/1986_French_Grand_Prix,dry
+1986,Great Britain,23,3,13.04,9,412,38,British Grand Prix,http://en.wikipedia.org/wiki/1986_British_Grand_Prix,dry
+1986,Germany,65,6,9.23,10,413,10,German Grand Prix,http://en.wikipedia.org/wiki/1986_German_Grand_Prix,dry
+1986,Hungary,51,5,9.8,11,414,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/1986_Hungarian_Grand_Prix,dry
+1986,Austria,15,1,6.67,12,415,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1986_Austrian_Grand_Prix,dry
+1986,Italy,58,11,18.97,13,416,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1986_Italian_Grand_Prix,dry
+1986,Portugal,29,2,6.9,14,417,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1986_Portuguese_Grand_Prix,dry
+1986,Mexico,62,6,9.68,15,418,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/1986_Mexican_Grand_Prix,dry
+1986,Australia,64,3,4.69,16,419,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1986_Australian_Grand_Prix,dry
+1985,Brazil,63,2,3.17,1,420,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1985_Brazilian_Grand_Prix,dry
+1985,Portugal,59,3,5.08,2,421,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1985_Portuguese_Grand_Prix,wet
+1985,San Marino,49,8,16.33,3,422,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1985_San_Marino_Grand_Prix,dry
+1985,Monaco,22,7,31.82,4,423,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1985_Monaco_Grand_Prix,dry
+1985,Canada,48,5,10.42,5,424,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1985_Canadian_Grand_Prix,dry
+1985,Detroit,46,3,6.52,6,425,37,Detroit Grand Prix,http://en.wikipedia.org/wiki/1985_Detroit_Grand_Prix,dry
+1985,France,47,3,6.38,7,426,34,French Grand Prix,http://en.wikipedia.org/wiki/1985_French_Grand_Prix,dry
+1985,Great Britain,52,12,23.08,8,427,9,British Grand Prix,http://en.wikipedia.org/wiki/1985_British_Grand_Prix,dry
+1985,Germany,31,5,16.13,9,428,20,German Grand Prix,http://en.wikipedia.org/wiki/1985_German_Grand_Prix,wet
+1985,Austria,32,1,3.13,10,429,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1985_Austrian_Grand_Prix,wet
+1985,Netherlands,62,12,19.35,11,430,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/1985_Dutch_Grand_Prix,dry
+1985,Italy,40,9,22.5,12,431,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1985_Italian_Grand_Prix,dry
+1985,Belgium,65,6,9.23,13,432,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/1985_Belgian_Grand_Prix,wet
+1985,Europe,64,11,17.19,14,433,38,European Grand Prix,http://en.wikipedia.org/wiki/1985_European_Grand_Prix,dry
+1985,South Africa,15,9,60.0,15,434,30,South African Grand Prix,http://en.wikipedia.org/wiki/1985_South_African_Grand_Prix,dry
+1985,Australia,47,6,12.77,16,435,29,Australian Grand Prix,http://en.wikipedia.org/wiki/1985_Australian_Grand_Prix,dry
+1984,Brazil,61,14,22.95,1,436,36,Brazilian Grand Prix,http://en.wikipedia.org/wiki/1984_Brazilian_Grand_Prix,dry
+1984,South Africa,83,15,18.07,2,437,30,South African Grand Prix,http://en.wikipedia.org/wiki/1984_South_African_Grand_Prix,dry
+1984,Belgium,50,14,28.0,3,438,40,Belgian Grand Prix,http://en.wikipedia.org/wiki/1984_Belgian_Grand_Prix,dry
+1984,San Marino,53,5,9.43,4,439,21,San Marino Grand Prix,http://en.wikipedia.org/wiki/1984_San_Marino_Grand_Prix,dry
+1984,France,54,15,27.78,5,440,41,French Grand Prix,http://en.wikipedia.org/wiki/1984_French_Grand_Prix,wet
+1984,Monaco,22,5,22.73,6,441,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/1984_Monaco_Grand_Prix,wet
+1984,Canada,57,5,8.77,7,442,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/1984_Canadian_Grand_Prix,dry
+1984,Detroit,41,3,7.32,8,443,37,Detroit Grand Prix,http://en.wikipedia.org/wiki/1984_Detroit_Grand_Prix,dry
+1984,Dallas,45,6,13.33,9,444,42,Dallas Grand Prix,http://en.wikipedia.org/wiki/1984_Dallas_Grand_Prix,wet
+1984,Great Britain,16,0,0.0,10,445,38,British Grand Prix,http://en.wikipedia.org/wiki/1984_British_Grand_Prix,dry
+1984,Germany,50,1,2.0,11,446,10,German Grand Prix,http://en.wikipedia.org/wiki/1984_German_Grand_Prix,dry
+1984,Austria,44,2,4.55,12,447,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/1984_Austrian_Grand_Prix,dry
+1984,Netherlands,50,6,12.0,13,448,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/1984_Dutch_Grand_Prix,dry
+1984,Italy,51,9,17.65,14,449,14,Italian Grand Prix,http://en.wikipedia.org/wiki/1984_Italian_Grand_Prix,dry
+1984,Europe,44,4,9.09,15,450,20,European Grand Prix,http://en.wikipedia.org/wiki/1984_European_Grand_Prix,dry
+1984,Portugal,60,9,15.0,16,451,27,Portuguese Grand Prix,http://en.wikipedia.org/wiki/1984_Portuguese_Grand_Prix,dry
+2011,Australia,31,11,35.48,1,841,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2011_Australian_Grand_Prix,wet
+2011,Malaysia,65,33,50.77,2,842,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2011_Malaysian_Grand_Prix,dry
+2011,China,98,48,48.98,3,843,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2011_Chinese_Grand_Prix,dry
+2011,Turkey,132,45,34.09,4,844,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2011_Turkish_Grand_Prix,wet
+2011,Spain,94,25,26.6,5,845,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2011_Spanish_Grand_Prix,dry
+2011,Monaco,28,10,35.71,6,846,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2011_Monaco_Grand_Prix,dry
+2011,Canada,129,39,30.23,7,847,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2011_Canadian_Grand_Prix,wet
+2011,Europe,48,19,39.58,8,848,12,European Grand Prix,http://en.wikipedia.org/wiki/2011_European_Grand_Prix,dry
+2011,Great Britain,30,21,70.0,9,849,9,British Grand Prix,http://en.wikipedia.org/wiki/2011_British_Grand_Prix,wet
+2011,Germany,53,21,39.62,10,850,20,German Grand Prix,http://en.wikipedia.org/wiki/2011_German_Grand_Prix,wet
+2011,Hungary,75,29,38.67,11,851,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2011_Hungarian_Grand_Prix,wet
+2011,Belgium,99,43,43.43,12,852,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2011_Belgian_Grand_Prix,wet
+2011,Italy,51,19,37.25,13,853,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2011_Italian_Grand_Prix,dry
+2011,Singapore,54,30,55.56,14,854,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2011_Singapore_Grand_Prix,dry
+2011,Japan,80,18,22.5,15,855,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2011_Japanese_Grand_Prix,dry
+2011,South Korea,55,27,49.09,16,856,35,Korean Grand Prix,http://en.wikipedia.org/wiki/2011_Korean_Grand_Prix,wet
+2011,India,28,13,46.43,17,857,68,Indian Grand Prix,http://en.wikipedia.org/wiki/2011_Indian_Grand_Prix,dry
+2011,Abu Dhabi,68,35,51.47,18,858,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2011_Abu_Dhabi_Grand_Prix,dry
+2011,Brazil,31,15,48.39,19,859,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2011_Brazilian_Grand_Prix,dry
+2012,Australia,43,25,58.14,1,860,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2012_Australian_Grand_Prix,wet
+2012,Malaysia,83,28,33.73,2,861,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix,wet
+2012,China,97,49,50.52,3,862,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2012_Chinese_Grand_Prix,dry
+2012,Bahrain,81,43,53.09,4,863,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2012_Bahrain_Grand_Prix,wet
+2012,Spain,56,29,51.79,5,864,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2012_Spanish_Grand_Prix,wet
+2012,Monaco,13,4,30.77,6,865,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix,wet
+2012,Canada,48,18,37.5,7,866,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2012_Canadian_Grand_Prix,dry
+2012,Europe,81,42,51.85,8,867,12,European Grand Prix,http://en.wikipedia.org/wiki/2012_European_Grand_Prix,dry
+2012,Great Britain,49,25,51.02,9,868,9,British Grand Prix,http://en.wikipedia.org/wiki/2012_British_Grand_Prix,wet
+2012,Germany,71,35,49.3,10,869,10,German Grand Prix,http://en.wikipedia.org/wiki/2012_German_Grand_Prix,dry
+2012,Hungary,18,8,44.44,11,870,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2012_Hungarian_Grand_Prix,dry
+2012,Belgium,61,40,65.57,12,871,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2012_Belgian_Grand_Prix,wet
+2012,Italy,66,36,54.55,13,872,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2012_Italian_Grand_Prix,dry
+2012,Singapore,64,21,32.81,14,873,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2012_Singapore_Grand_Prix,dry
+2012,Japan,44,9,20.45,15,874,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2012_Japanese_Grand_Prix,dry
+2012,South Korea,36,23,63.89,16,875,35,Korean Grand Prix,http://en.wikipedia.org/wiki/2012_Korean_Grand_Prix,dry
+2012,India,35,18,51.43,17,876,68,Indian Grand Prix,http://en.wikipedia.org/wiki/2012_Indian_Grand_Prix,dry
+2012,Abu Dhabi,56,27,48.21,18,877,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2012_Abu_Dhabi_Grand_Prix,dry
+2012,USA,69,39,56.52,19,878,69,United States Grand Prix,http://en.wikipedia.org/wiki/2012_United_States_Grand_Prix,dry
+2012,Brazil,158,62,39.24,20,879,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2012_Brazilian_Grand_Prix,wet
+2013,Australia,59,21,35.59,1,880,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2013_Australian_Grand_Prix,wet
+2013,Malaysia,55,32,58.18,2,881,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2013_Malaysian_Grand_Prix,wet
+2013,China,84,44,52.38,3,882,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2013_Chinese_Grand_Prix,dry
+2013,Bahrain,89,52,58.43,4,883,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2013_Bahrain_Grand_Prix,dry
+2013,Spain,74,31,41.89,5,884,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2013_Spanish_Grand_Prix,dry
+2013,Monaco,17,7,41.18,6,885,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2013_Monaco_Grand_Prix,dry
+2013,Canada,48,22,45.83,7,886,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2013_Canadian_Grand_Prix,dry
+2013,Great Britain,92,46,50.0,8,887,9,British Grand Prix,http://en.wikipedia.org/wiki/2013_British_Grand_Prix,wet
+2013,Germany,54,26,48.15,9,888,20,German Grand Prix,http://en.wikipedia.org/wiki/2013_German_Grand_Prix,dry
+2013,Hungary,28,10,35.71,10,890,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2013_Hungarian_Grand_Prix,dry
+2013,Belgium,64,34,53.13,11,891,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2013_Belgian_Grand_Prix,wet
+2013,Italy,28,18,64.29,12,892,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2013_Italian_Grand_Prix,dry
+2013,Singapore,39,21,53.85,13,893,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2013_Singapore_Grand_Prix,dry
+2013,South Korea,69,33,47.83,14,894,35,Korean Grand Prix,http://en.wikipedia.org/wiki/2013_Korean_Grand_Prix,dry
+2013,Japan,34,24,70.59,15,895,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2013_Japanese_Grand_Prix,dry
+2013,India,57,31,54.39,16,896,68,Indian Grand Prix,http://en.wikipedia.org/wiki/2013_Indian_Grand_Prix,dry
+2013,Abu Dhabi,47,36,76.6,17,897,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2013_Abu_Dhabi_Grand_Prix,dry
+2013,USA,23,17,73.91,18,898,69,United States Grand Prix,http://en.wikipedia.org/wiki/2013_United_States_Grand_Prix,dry
+2013,Brazil,68,29,42.65,19,899,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2013_Brazilian_Grand_Prix,wet
+2014,Australia,30,13,43.33,1,900,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2014_Australian_Grand_Prix,wet
+2014,Malaysia,33,23,69.7,2,901,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2014_Malaysian_Grand_Prix,dry
+2014,Bahrain,74,47,63.51,3,902,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2014_Bahrain_Grand_Prix,dry
+2014,China,42,19,45.24,4,903,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2014_Chinese_Grand_Prix,wet
+2014,Spain,43,22,51.16,5,904,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2014_Spanish_Grand_Prix,wet
+2014,Monaco,10,8,80.0,6,905,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2014_Monaco_Grand_Prix,wet
+2014,Canada,32,14,43.75,7,906,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix,wet
+2014,Austria,43,16,37.21,8,907,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2014_Austrian_Grand_Prix,dry
+2014,Great Britain,43,20,46.51,9,908,9,British Grand Prix,http://en.wikipedia.org/wiki/2014_British_Grand_Prix,wet
+2014,Germany,92,55,59.78,10,909,10,German Grand Prix,http://en.wikipedia.org/wiki/2014_German_Grand_Prix,dry
+2014,Hungary,52,17,32.69,11,910,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2014_Hungarian_Grand_Prix,wet
+2014,Belgium,62,32,51.61,12,911,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2014_Belgian_Grand_Prix,wet
+2014,Italy,45,26,57.78,13,912,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2014_Italian_Grand_Prix,dry
+2014,Singapore,52,23,44.23,14,913,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2014_Singapore_Grand_Prix,dry
+2014,Japan,37,13,35.14,15,914,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2014_Japanese_Grand_Prix,wet
+2014,Russia,44,18,40.91,16,915,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2014_Russian_Grand_Prix,dry
+2014,USA,40,32,80.0,17,916,69,United States Grand Prix,http://en.wikipedia.org/wiki/2014_United_States_Grand_Prix,dry
+2014,Brazil,41,25,60.98,18,917,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2014_Brazilian_Grand_Prix,wet
+2014,Abu Dhabi,56,27,48.21,19,918,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2014_Abu_Dhabi_Grand_Prix,dry
+2015,Australia,11,8,72.73,1,926,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2015_Australian_Grand_Prix,dry
+2015,Malaysia,74,53,71.62,2,927,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2015_Malaysian_Grand_Prix,wet
+2015,China,32,25,78.13,3,928,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2015_Chinese_Grand_Prix,dry
+2015,Bahrain,45,24,53.33,4,929,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2015_Bahrain_Grand_Prix,dry
+2015,Spain,30,18,60.0,5,930,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2015_Spanish_Grand_Prix,dry
+2015,Monaco,10,3,30.0,6,931,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2015_Monaco_Grand_Prix,wet
+2015,Canada,38,27,71.05,7,932,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2015_Canadian_Grand_Prix,wet
+2015,Austria,21,15,71.43,8,933,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2015_Austrian_Grand_Prix,wet
+2015,Great Britain,22,9,40.91,9,934,9,British Grand Prix,http://en.wikipedia.org/wiki/2015_British_Grand_Prix,wet
+2015,Hungary,35,16,45.71,10,936,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2015_Hungarian_Grand_Prix,dry
+2015,Belgium,30,21,70.0,11,937,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2015_Belgian_Grand_Prix,wet
+2015,Italy,33,19,57.58,12,938,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2015_Italian_Grand_Prix,wet
+2015,Singapore,15,11,73.33,13,939,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2015_Singapore_Grand_Prix,dry
+2015,Japan,37,23,62.16,14,940,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,wet
+2015,Russia,31,16,51.61,15,941,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2015_Russian_Grand_Prix,wet
+2015,USA,63,44,69.84,16,942,69,United States Grand Prix,http://en.wikipedia.org/wiki/2015_United_States_Grand_Prix,wet
+2015,Mexico,33,18,54.55,17,943,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2015_Mexican_Grand_Prix,wet
+2015,Brazil,38,31,81.58,18,944,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2015_Brazilian_Grand_Prix,wet
+2015,Abu Dhabi,31,24,77.42,19,945,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2015_Abu_Dhabi_Grand_Prix,dry
+2016,Australia,37,17,45.95,1,948,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2016_Australian_Grand_Prix,wet
+2016,Bahrain,90,57,63.33,2,949,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2016_Bahrain_Grand_Prix,dry
+2016,China,170,91,53.53,3,950,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2016_Chinese_Grand_Prix,wet
+2016,Russia,31,22,70.97,4,951,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2016_Russian_Grand_Prix,dry
+2016,Spain,54,15,27.78,5,952,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2016_Spanish_Grand_Prix,dry
+2016,Monaco,14,7,50.0,6,953,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2016_Monaco_Grand_Prix,wet
+2016,Canada,33,13,39.39,7,954,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2016_Canadian_Grand_Prix,dry
+2016,Europe,80,46,57.5,8,955,73,European Grand Prix,http://en.wikipedia.org/wiki/2016_European_Grand_Prix,dry
+2016,Austria,78,47,60.26,9,956,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2016_Austrian_Grand_Prix,wet
+2016,Great Britain,16,8,50.0,10,957,9,British Grand Prix,http://en.wikipedia.org/wiki/2016_British_Grand_Prix,wet
+2016,Hungary,12,3,25.0,11,958,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2016_Hungarian_Grand_Prix,dry
+2016,Germany,58,27,46.55,12,959,10,German Grand Prix,http://en.wikipedia.org/wiki/2016_German_Grand_Prix,dry
+2016,Belgium,50,30,60.0,13,960,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2016_Belgian_Grand_Prix,dry
+2016,Italy,49,25,51.02,14,961,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2016_Italian_Grand_Prix,dry
+2016,Singapore,40,20,50.0,15,962,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2016_Singapore_Grand_Prix,dry
+2016,Malaysia,44,28,63.64,16,963,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2016_Malaysian_Grand_Prix,dry
+2016,Japan,50,25,50.0,17,964,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2016_Japanese_Grand_Prix,dry
+2016,USA,57,25,43.86,18,965,69,United States Grand Prix,http://en.wikipedia.org/wiki/2016_United_States_Grand_Prix,dry
+2016,Mexico,26,12,46.15,19,966,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2016_Mexican_Grand_Prix,dry
+2016,Brazil,65,25,38.46,20,967,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2016_Brazilian_Grand_Prix,wet
+2016,Abu Dhabi,43,22,51.16,21,968,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2016_Abu_Dhabi_Grand_Prix,dry
+2017,Australia,2,2,100.0,1,969,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2017_Australian_Grand_Prix,dry
+2017,China,36,20,55.56,2,970,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2017_Chinese_Grand_Prix,wet
+2017,Bahrain,38,28,73.68,3,971,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2017_Bahrain_Grand_Prix,dry
+2017,Russia,0,0,0.0,4,972,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2017_Russian_Grand_Prix,dry
+2017,Spain,20,13,65.0,5,973,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2017_Spanish_Grand_Prix,dry
+2017,Monaco,3,1,33.33,6,974,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2017_Monaco_Grand_Prix,dry
+2017,Canada,34,20,58.82,7,975,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2017_Canadian_Grand_Prix,dry
+2017,Azerbaijan,48,35,72.92,8,976,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2017_Azerbaijan_Grand_Prix,dry
+2017,Austria,13,6,46.15,9,977,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2017_Austrian_Grand_Prix,dry
+2017,Great Britain,39,20,51.28,10,978,9,British Grand Prix,http://en.wikipedia.org/wiki/2017_British_Grand_Prix,wet
+2017,Hungary,9,2,22.22,11,979,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2017_Hungarian_Grand_Prix,dry
+2017,Belgium,42,23,54.76,12,980,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2017_Belgian_Grand_Prix,dry
+2017,Italy,38,22,57.89,13,981,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2017_Italian_Grand_Prix,wet
+2017,Singapore,16,11,68.75,14,982,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2017_Singapore_Grand_Prix,wet
+2017,Malaysia,33,21,63.64,15,983,2,Malaysian Grand Prix,http://en.wikipedia.org/wiki/2017_Malaysian_Grand_Prix,dry
+2017,Japan,19,16,84.21,16,984,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2017_Japanese_Grand_Prix,dry
+2017,USA,44,14,31.82,17,985,69,United States Grand Prix,http://en.wikipedia.org/wiki/2017_United_States_Grand_Prix,dry
+2017,Mexico,26,23,88.46,18,986,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2017_Mexican_Grand_Prix,dry
+2017,Brazil,37,28,75.68,19,987,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2017_Brazilian_Grand_Prix,dry
+2017,Abu Dhabi,12,9,75.0,20,988,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2017_Abu_Dhabi_Grand_Prix,dry
+2018,Australia,5,3,60.0,1,989,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2018_Australian_Grand_Prix,wet
+2018,Bahrain,62,37,59.68,2,990,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2018_Bahrain_Grand_Prix,dry
+2018,China,53,24,45.28,3,991,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2018_Chinese_Grand_Prix,dry
+2018,Azerbaijan,58,32,55.17,4,992,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2018_Azerbaijan_Grand_Prix,wet
+2018,Spain,13,9,69.23,5,993,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2018_Spanish_Grand_Prix,wet
+2018,Monaco,4,3,75.0,6,994,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2018_Monaco_Grand_Prix,dry
+2018,Canada,15,6,40.0,7,995,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2018_Canadian_Grand_Prix,dry
+2018,France,52,35,67.31,8,996,34,French Grand Prix,http://en.wikipedia.org/wiki/2018_French_Grand_Prix,dry
+2018,Austria,30,16,53.33,9,997,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2018_Austrian_Grand_Prix,dry
+2018,Great Britain,33,20,60.61,10,998,9,British Grand Prix,http://en.wikipedia.org/wiki/2018_British_Grand_Prix,dry
+2018,Germany,66,45,68.18,11,999,10,German Grand Prix,http://en.wikipedia.org/wiki/2018_German_Grand_Prix,wet
+2018,Hungary,21,17,80.95,12,1000,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2018_Hungarian_Grand_Prix,dry
+2018,Belgium,30,19,63.33,13,1001,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2018_Belgian_Grand_Prix,dry
+2018,Italy,44,24,54.55,14,1002,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2018_Italian_Grand_Prix,dry
+2018,Singapore,13,9,69.23,15,1003,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2018_Singapore_Grand_Prix,dry
+2018,Russia,33,14,42.42,16,1004,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2018_Russian_Grand_Prix,dry
+2018,Japan,60,43,71.67,17,1005,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2018_Japanese_Grand_Prix,wet
+2018,USA,31,11,35.48,18,1006,69,United States Grand Prix,http://en.wikipedia.org/wiki/2018_United_States_Grand_Prix,dry
+2018,Mexico,36,14,38.89,19,1007,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2018_Mexican_Grand_Prix,dry
+2018,Brazil,52,30,57.69,20,1008,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2018_Brazilian_Grand_Prix,dry
+2018,Abu Dhabi,38,26,68.42,21,1009,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2018_Abu_Dhabi_Grand_Prix,dry
+2019,Australia,12,9,75.0,1,1010,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix,dry
+2019,Bahrain,73,35,47.95,2,1011,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix,dry
+2019,China,40,17,42.5,3,1012,17,Chinese Grand Prix,http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix,dry
+2019,Azerbaijan,62,31,50.0,4,1013,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix,dry
+2019,Spain,26,9,34.62,5,1014,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix,dry
+2019,Monaco,2,2,100.0,6,1015,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix,dry
+2019,Canada,30,12,40.0,7,1016,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix,dry
+2019,France,28,21,75.0,8,1017,34,French Grand Prix,http://en.wikipedia.org/wiki/2019_French_Grand_Prix,dry
+2019,Austria,50,19,38.0,9,1018,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix,dry
+2019,Great Britain,33,11,33.33,10,1019,9,British Grand Prix,http://en.wikipedia.org/wiki/2019_British_Grand_Prix,wet
+2019,Germany,94,39,41.49,11,1020,10,German Grand Prix,http://en.wikipedia.org/wiki/2019_German_Grand_Prix,wet
+2019,Hungary,31,18,58.06,12,1021,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix,dry
+2019,Belgium,63,35,55.56,13,1022,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix,dry
+2019,Italy,45,13,28.89,14,1023,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix,wet
+2019,Singapore,59,45,76.27,15,1024,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix,dry
+2019,Russia,28,14,50.0,16,1025,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix,dry
+2019,Japan,58,25,43.1,17,1026,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix,dry
+2019,Mexico,46,20,43.48,18,1027,32,Mexican Grand Prix,http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix,dry
+2019,USA,61,27,44.26,19,1028,69,United States Grand Prix,http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix,dry
+2019,Brazil,71,24,33.8,20,1029,18,Brazilian Grand Prix,http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix,dry
+2019,Abu Dhabi,37,21,56.76,21,1030,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix,dry
+2020,Austria,29,17,58.62,1,1031,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix,dry
+2020,Styria,49,31,63.27,2,1032,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix,wet
+2020,Hungary,44,23,52.27,3,1033,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix,wet
+2020,Great Britain,26,17,65.38,4,1034,9,British Grand Prix,http://en.wikipedia.org/wiki/2020_British_Grand_Prix,wet
+2020,70th Anniversary,29,16,55.17,5,1035,9,70th Anniversary Grand Prix,http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix,dry
+2020,Spain,32,16,50.0,6,1036,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix,dry
+2020,Belgium,32,21,65.63,7,1037,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix,dry
+2020,Italy,36,25,69.44,8,1038,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix,dry
+2020,Tuscany,19,16,84.21,9,1039,76,Tuscan Grand Prix,http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix,dry
+2020,Russia,31,25,80.65,10,1040,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix,dry
+2020,Eifel,41,23,56.1,11,1041,20,Eifel Grand Prix,http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix,wet
+2020,Portugal,69,38,55.07,12,1042,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix,dry
+2020,Emilia-Romagna,10,8,80.0,13,1043,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix,dry
+2020,Turkey,42,23,54.76,14,1044,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix,wet
+2020,Bahrain,54,36,66.67,15,1045,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix,dry
+2020,Sakhir,51,31,60.78,16,1046,3,Sakhir Grand Prix,http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix,dry
+2020,Abu Dhabi,34,22,64.71,17,1047,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix,dry
+2021,Qatar,49,30,61.22,20,1051,78,Qatar Grand Prix,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix,dry
+2021,Bahrain,75,42,56.0,1,1052,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix,dry
+2021,Emilia-Romagna,42,28,66.67,2,1053,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix,wet
+2021,Portugal,45,29,64.44,3,1054,75,Portuguese Grand Prix,http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix,dry
+2021,Spain,51,28,54.9,4,1055,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix,dry
+2021,Monaco,0,0,0.0,5,1056,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix,dry
+2021,Azerbaijan,27,16,59.26,6,1057,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix,dry
+2021,Styria,24,14,58.33,8,1058,70,Styrian Grand Prix,http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix,wet
+2021,France,60,33,55.0,7,1059,34,French Grand Prix,http://en.wikipedia.org/wiki/2021_French_Grand_Prix,wet
+2021,Austria,38,15,39.47,9,1060,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix,dry
+2021,Great Britain,29,17,58.62,10,1061,9,British Grand Prix,http://en.wikipedia.org/wiki/2021_British_Grand_Prix,dry
+2021,Hungary,17,16,94.12,11,1062,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix,dry
+2021,Belgium,0,0,0.0,12,1063,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix,wet
+2021,Netherlands,24,13,54.17,13,1064,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix,dry
+2021,Italy,23,17,73.91,14,1065,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix,dry
+2021,Russia,94,24,25.53,15,1066,71,Russian Grand Prix,http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix,wet
+2021,Turkey,26,16,61.54,16,1067,5,Turkish Grand Prix,http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix,wet
+2021,USA,32,12,37.5,17,1069,69,United States Grand Prix,http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix,wet
+2021,Mexico,23,11,47.83,18,1070,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix,dry
+2021,Brazil,65,24,36.92,19,1071,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix,dry
+2021,Saudi Arabia,27,15,55.56,21,1072,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix,dry
+2021,Abu Dhabi,36,17,47.22,22,1073,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix,wet
+2022,Bahrain,78,36,46.15,1,1074,3,Bahrain Grand Prix,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix,dry
+2022,Saudi Arabia,32,21,65.63,2,1075,77,Saudi Arabian Grand Prix,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix,dry
+2022,Australia,34,20,58.82,3,1076,1,Australian Grand Prix,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix,dry
+2022,Emilia-Romagna,23,16,69.57,4,1077,21,Emilia Romagna Grand Prix,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix,wet
+2022,Miami,52,26,50.0,5,1078,79,Miami Grand Prix,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix,dry
+2022,Spain,48,28,58.33,6,1079,4,Spanish Grand Prix,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix,dry
+2022,Monaco,13,2,15.38,7,1080,6,Monaco Grand Prix,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix,wet
+2022,Azerbaijan,23,18,78.26,8,1081,73,Azerbaijan Grand Prix,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix,dry
+2022,Canada,35,22,62.86,9,1082,7,Canadian Grand Prix,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix,wet
+2022,Great Britain,31,17,54.84,10,1083,9,British Grand Prix,http://en.wikipedia.org/wiki/2022_British_Grand_Prix,wet
+2022,Austria,67,42,62.69,11,1084,70,Austrian Grand Prix,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix,dry
+2022,France,33,19,57.58,12,1085,34,French Grand Prix,http://en.wikipedia.org/wiki/2022_French_Grand_Prix,dry
+2022,Hungary,61,31,50.82,13,1086,11,Hungarian Grand Prix,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix,wet
+2022,Belgium,74,44,59.46,14,1087,13,Belgian Grand Prix,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix,dry
+2022,Netherlands,23,18,78.26,15,1088,39,Dutch Grand Prix,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix,dry
+2022,Italy,58,32,55.17,16,1089,14,Italian Grand Prix,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix,dry
+2022,Singapore,16,11,68.75,17,1091,15,Singapore Grand Prix,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix,wet
+2022,Japan,28,13,46.43,18,1092,22,Japanese Grand Prix,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix,wet
+2022,USA,85,35,41.18,19,1093,69,United States Grand Prix,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix,dry
+2022,Mexico,24,18,75.0,20,1094,32,Mexico City Grand Prix,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix,dry
+2022,Brazil,77,41,53.25,21,1095,18,São Paulo Grand Prix,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix,wet
+2022,Abu Dhabi,79,40,50.63,22,1096,24,Abu Dhabi Grand Prix,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix,dry
+2023,Bahrain,37,19,51.35,1,1098,3,Bahrain Grand Prix,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,dry
+2023,Saudi Arabia,36,17,47.22,2,1099,77,Saudi Arabian Grand Prix,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,dry
+2023,Australia,29,19,65.52,3,1100,1,Australian Grand Prix,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,dry
+2023,Azerbaijan,23,19,82.61,4,1101,73,Azerbaijan Grand Prix,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,dry
+2023,Miami,62,43,69.35,5,1102,79,Miami Grand Prix,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,dry
+2023,Monaco,22,12,54.55,6,1104,6,Monaco Grand Prix,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,wet
+2023,Spain,65,42,64.62,7,1105,4,Spanish Grand Prix,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,wet
+2023,Canada,20,19,95.0,8,1106,7,Canadian Grand Prix,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,wet
+2023,Austria,63,45,71.43,9,1107,70,Austrian Grand Prix,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,wet
+2023,Great Britain,26,17,65.38,10,1108,9,British Grand Prix,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,wet
+2023,Hungary,16,15,93.75,11,1109,11,Hungarian Grand Prix,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,dry
+2023,Belgium,75,50,66.67,12,1110,13,Belgian Grand Prix,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,wet
+2023,Netherlands,188,59,31.38,13,1111,39,Dutch Grand Prix,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,wet
+2023,Italy,31,15,48.39,14,1112,14,Italian Grand Prix,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,dry
+2023,Singapore,42,23,54.76,15,1113,15,Singapore Grand Prix,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,dry
+2023,Japan,29,23,79.31,16,1114,22,Japanese Grand Prix,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,dry
+2023,Qatar,48,38,79.17,17,1115,78,Qatar Grand Prix,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,dry
+2023,USA,47,28,59.57,18,1116,69,United States Grand Prix,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,dry
+2023,Mexico,48,29,60.42,19,1117,32,Mexico City Grand Prix,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,dry
+2023,Brazil,25,18,72.0,20,1118,18,São Paulo Grand Prix,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,wet
+2023,Las Vegas,99,54,54.55,21,1119,80,Las Vegas Grand Prix,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,dry
+2023,Abu Dhabi,70,50,71.43,22,1120,24,Abu Dhabi Grand Prix,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,dry
