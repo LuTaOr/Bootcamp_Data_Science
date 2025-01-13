@@ -60,7 +60,7 @@ This block includes sprints related to data exploration and analysis. Each sprin
 # PROJECT BREAK
 
 ## Sprint 09 and 10 - **EDA Project: Formula 1 Analysis**
-These two weeks were exclusively dedicated to the EDA project. In my case, I worked on an analysis of Formula 1. This project is available in my GitHub repository: [F1_EDA](https://github.com/LuTaOr/F1_EDA).
+These two weeks were exclusively dedicated to the EDA project. In my case, I worked on an analysis of Formula 1. This project is available in my GitHub repository: [F1_EDA](https://github.com/LuTaOr/Bootcamp_Data_Science/tree/main/3_Evaluation_projects/1_EDA_FORMULA_1).
 
 ---
 
@@ -125,7 +125,7 @@ This sprint did not include mandatory practices. It focused on class attendance 
 # PROJECT BREAK
 
 ## Sprint 22 and 23 - **ML Project: Shopping Intention Predictor**
-These two weeks were exclusively dedicated to the Machine Learning project. In my case, I developed a model to predict shopping intentions in an online business. This project is available in my GitHub repository: [Shopping_Prediction](https://github.com/LuTaOr/Shopping_Prediction).
+These two weeks were exclusively dedicated to the Machine Learning project. In my case, I developed a model to predict shopping intentions in an online business. This project is available in my GitHub repository: [Shopping_Prediction](https://github.com/LuTaOr/Bootcamp_Data_Science/tree/main/3_Evaluation_projects/2_SHOPPING_PREDICTIONn).
 
 ---
 
